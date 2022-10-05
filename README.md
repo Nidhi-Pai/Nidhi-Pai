@@ -7,7 +7,7 @@ I'm a Data Analyst Intern working at Lucid Motors USA Inc. I'm currently pursuin
 
 ---
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tools and Technologies
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=airflow)&nbsp;

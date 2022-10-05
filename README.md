@@ -1,6 +1,6 @@
-<div id="header" align="right">
+/#<div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div>#/
 
 ### Hi there 👋
 - I'm a Data Analyst Intern working at Lucid Motors USA Inc. 

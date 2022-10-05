@@ -15,7 +15,7 @@ I'm a Data Analyst Intern working at Lucid Motors USA Inc. I'm currently pursuin
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![Sass](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![npm](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![GraphQL](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;

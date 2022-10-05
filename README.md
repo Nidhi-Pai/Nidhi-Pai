@@ -1,7 +1,3 @@
-/#<div id="header" align="right">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>#/
-
 ### Hi there 👋
 - I'm a Data Analyst Intern working at Lucid Motors USA Inc. 
 - I'm currently pursuing a Master's Degree in Data Science at Northeastern University, Boston. 

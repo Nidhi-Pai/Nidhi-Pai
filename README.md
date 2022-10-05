@@ -3,7 +3,11 @@
 </div>
 
 ### Hi there 👋
-I'm a Data Analyst Intern working at Lucid Motors USA Inc. I'm currently pursuing a Master's Degree in Data Science at Northeastern University, Boston. I build Tableau Dashboards to query, report and represent the state of the system. I also draft Airflow pipelines for scheduling. Apart from this, I work extensively with Python to build Machine Learning and NLP models. I also design and develop applications using React, TypeScript, CSS3, GraphQL and Python.
+- I'm a Data Analyst Intern working at Lucid Motors USA Inc. 
+- I'm currently pursuing a Master's Degree in Data Science at Northeastern University, Boston. 
+- I build Tableau Dashboards to query, report and represent the state of the system. 
+- I also draft Airflow pipelines for scheduling. Apart from this, I work extensively with Python to build Machine Learning and NLP models. 
+- I also design and develop applications using React, TypeScript, CSS3, GraphQL and Python.
 
 ---
 

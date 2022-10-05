@@ -3,8 +3,10 @@
 </div>
 
 ### Hi there 👋
-I'm a Data Analyst Intern working at Lucid Motors USA Inc. I'm currently pursuing a Master's Degree in Data Science at Northeastern University, Boston. I build Tableau Dashboards to query, report and represent the state of the system. I also draft Airflow pipelines for scheduling. Apart from this, I work extensively with Python to build Machine Learning and NLP models. I also design and develop applications using React, TypeScript, CSS3, GraphQL and Python. 
+I'm a Data Analyst Intern working at Lucid Motors USA Inc. I'm currently pursuing a Master's Degree in Data Science at Northeastern University, Boston. I build Tableau Dashboards to query, report and represent the state of the system. I also draft Airflow pipelines for scheduling. Apart from this, I work extensively with Python to build Machine Learning and NLP models. I also design and develop applications using React, TypeScript, CSS3, GraphQL and Python.
+
 ---
+
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
@@ -34,8 +36,12 @@ I'm a Data Analyst Intern working at Lucid Motors USA Inc. I'm currently pursuin
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgreSQL&logoColor=FFA518)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-pai&layout=compact&theme=dracula)](https://github.com/nidhi-pai/github-readme-stats) 
 [![Nidhi Pai Medium](https://github-readme-medium.vercel.app/?username=nidhipai&limit=2)](https://medium.com/@nidhipai)
+
+---
 
 ### 🛠 &nbsp;Get in Touch
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;

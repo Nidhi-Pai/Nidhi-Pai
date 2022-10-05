@@ -34,6 +34,6 @@ I'm a Data Analyst Intern working at Lucid Motors USA Inc. I'm currently pursuin
 [![Nidhi Pai Medium](https://github-readme-medium.vercel.app/?username=nidhipai&limit=2)](https://medium.com/@nidhipai)
 
 ### 🛠 &nbsp;Get in Touch
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
+![(https://www.linkedin.com/in/pai-nidhi/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)&nbsp;

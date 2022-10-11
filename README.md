@@ -38,9 +38,6 @@
 
 ---
 [![Nidhi Pai Medium](https://github-readme-medium.vercel.app/?username=nidhipai&limit=2)](https://medium.com/@nidhipai)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-pai&layout=compact&theme=dracula)](https://github.com/nidhi-pai/github-readme-stats) 
-
-
 ---
 
 ### :computer: &nbsp;Get in Touch

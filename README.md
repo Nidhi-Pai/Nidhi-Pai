@@ -37,7 +37,7 @@
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 
 ---
-[![Nidhi Pai Medium](https://github-readme-medium.vercel.app/?username=nidhipai&limit=2)](https://medium.com/@nidhipai)
+ &nbsp;[![Nidhi Pai Medium](https://github-readme-medium.vercel.app/?username=nidhipai&limit=2)](https://medium.com/@nidhipai)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-pai&layout=compact&theme=dracula)](https://github.com/nidhi-pai/github-readme-stats) 
 
 

@@ -38,6 +38,7 @@
 
 ---
 [![Nidhi Pai Medium](https://github-readme-medium.vercel.app/?username=nidhipai&limit=2)](https://medium.com/@nidhipai)
+
 ---
 
 ### :computer: &nbsp;Get in Touch

@@ -46,7 +46,7 @@
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 <a href="mailto:pai.ni@northeastern.edu">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Outlook" src="https://img.shields.io/badge/Gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.kaggle.com/nidhipai99">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />

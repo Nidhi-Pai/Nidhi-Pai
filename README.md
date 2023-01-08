@@ -42,6 +42,12 @@
 ---
 
 ### :computer: &nbsp;Get in Touch
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://medium.com/@nidhipai)&nbsp(https://medium.com/@nidhipai);
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)&nbsp;
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)&nbsp;
+<a href="https://www.linkedin.com/in/pai-nidhi/">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+<a href="mailto:pai.ni@northeastern.edu">
+  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.kaggle.com/nidhipai99">
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+</a>

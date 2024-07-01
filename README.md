@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Data Analyst at Lucid Motors USA Inc. with a focus on warranty and finance. I am currently pursuing a Master's Degree in Data Science at Northeastern University, Boston. My work involves building Tableau Dashboards to query, report, and represent the state of the system, as well as drafting Airflow pipelines for scheduling. I also work extensively with Python to build Machine Learning and NLP models and design and develop applications using React, TypeScript, CSS3, GraphQL, and Python.
+I'm a dedicated and results-driven Data Analyst at Lucid Motors USA Inc., where I specialize in transforming data into actionable insights to enhance our warranty and finance operations. 
 
 ---
 

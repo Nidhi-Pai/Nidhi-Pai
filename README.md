@@ -21,7 +21,7 @@ I'm a dedicated and results-driven Data Analyst at Lucid Motors USA Inc., where 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=FFA518)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FFA518)&nbsp;
-![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker&logoColor=4285F4))&nbsp;
+![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=looker&logoColor=4285F4)&nbsp;
 
 #### What I Used to Work With
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;

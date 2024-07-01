@@ -21,9 +21,7 @@ I'm a dedicated and results-driven Data Analyst at Lucid Motors USA Inc., where 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=FFA518)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FFA518)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-05122A?style=flat&logo=prettier&logoColor=FFA518)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=FFA518)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+![Looker](https://img.shields.io/badge/-Looker-05122A?style=flat&logo=postman&logoColor=FFA518)&nbsp;
 
 #### What I Used to Work With
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
@@ -34,6 +32,7 @@ I'm a dedicated and results-driven Data Analyst at Lucid Motors USA Inc., where 
 ![Sass](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 ![npm](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=FFA518)&nbsp;
 
 ---
 [![Nidhi Pai Medium](https://github-readme-medium.vercel.app/?username=nidhipai&limit=2)](https://medium.com/@nidhipai)
